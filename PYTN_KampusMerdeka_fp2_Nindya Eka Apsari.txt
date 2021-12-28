@@ -1,0 +1,11 @@
+Repository:
+https://github.com/nindyaekaapsari/FinalProject2
+
+IPYNB File:
+https://github.com/nindyaekaapsari/FinalProject2/blob/main/PYTN_KampusMerdeka_fp2_Nindya%20Eka%20Apsari.ipynb
+
+Deployment:
+https://github.com/nindyaekaapsari/FinalProject2/tree/main/Model_Deployment
+
+Deployment Heroku:
+https://h8-fp2-model-deployment.herokuapp.com/
